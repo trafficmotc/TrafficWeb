@@ -1,0 +1,35 @@
+{
+    "title" : "路側設施即時交通資料庫系統",
+    "author" : "vicky",
+    "description" : "路側設施即時交通資料庫系統",
+    "variables": {
+        "v": "Hello World"
+    } ,
+    "sharing": {
+        "google": null,
+        "facebook": null
+    },
+     "links": {
+        "sidebar": {
+            "路側設施即時交通資料庫系統": "http://traffic.transportdata.tw/VD2/login.jsp?sendurl=common/announcements.jsp"
+        },
+        "sharing": {
+            "google": null,
+            "facebook": null
+        }
+    },
+    "plugins": [
+        "-lunr", "-search", "search-plus","-fontsettings","-highlight",
+        "splitter",
+        "localized-footer",
+        "back-to-top-button",
+        "theme-comscore",
+        "emphasize"
+    ],
+    "pluginsConfig": {
+        "localized-footer": {
+            "hline": true,           
+            "filename": "./footer.md" 
+        }
+    }
+}
