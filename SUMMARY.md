@@ -1,0 +1,23 @@
+# Summary
+
+* [入門指南](README.md)
+* 會員申請
+  * [會員分級](member/MemberType.md)
+  * [註冊申請](member/GoRegister.md)
+  * [常見問題](member/MemberFAQ.md)
+* API使用 
+  * [資料服務說明文件](https://ptx.transportdata.tw/MOTC/Swagger/)
+  * [授權驗證](api/HMac.md)
+  * [常見問題](api/FAQ.md)
+* API資料使用注意事項
+  * [版本說明](FAQ/Version.md)
+  * [VD資料使用注意事項](FAQ/VD.md)
+  * [CCTV資料使用注意事項](FAQ/CCTV.md)
+  * [CMS資料使用注意事項](FAQ/CMS.md)
+  * [AVI資料使用注意事項](FAQ/AVI.md)
+  * [eTAG資料使用注意事項](FAQ/ETAG.md)
+* KPI指標說明
+  * [檔案介接率統計說明](KPI/FILE.md)
+  * [設備完整率統計說明](KPI/COMPLETE.md)
+  * [設備維護率統計說明](KPI/MAINTAIN.md)
+  * [設備即時率統計說明](KPI/LATENCY.md)
