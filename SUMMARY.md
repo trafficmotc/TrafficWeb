@@ -29,3 +29,4 @@
   * [設備完整率統計說明](KPI/Complete.md)
   * [設備維護率統計說明](KPI/Maintain.md)
   * [設備即時率統計說明](KPI/Update.md)
+  * [設備妥善率統計說明](KPI/Proper.md)
