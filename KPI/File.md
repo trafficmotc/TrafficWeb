@@ -13,9 +13,7 @@
 
 ### 靜態檔案介接率
 
-<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=default"></script>
-
- \\(\mathbf{總設備靜態檔案介接率} =$$\frac{實際回傳靜態𝐗𝐌𝐋檔案數}{應回傳靜態𝐗𝐌𝐋檔案數}$$\\)
+$$\mathbf{總設備靜態檔案介接率} =\frac{實際回傳靜態𝐗𝐌𝐋檔案數}{應回傳靜態𝐗𝐌𝐋檔案數}$$
 
 居中格式: $$xxx$$
 $$x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}$$
