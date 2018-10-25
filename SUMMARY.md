@@ -24,6 +24,7 @@
   * [GVP資料使用注意事項](FAQ/GVP.md)
   * [CVP資料使用注意事項](FAQ/CVP.md)
 * KPI指標說明
+  * [KPI計算流程及說明](KPI/SOP.md)
   * [檔案介接率統計說明](KPI/File.md)
   * [設備完整率統計說明](KPI/Complete.md)
   * [設備維護率統計說明](KPI/Maintain.md)
