@@ -10,7 +10,6 @@
   * [Swagger說明](API/Swagger.md)
   * [線上教學](API/Demo.md)
   * [範例程式](api/Code.md)
-  * [常見問題](api/FAQ.md)
   * [常見問題](API/FAQ.md)
 * API特色
   * [URI命名原則](API/URI.md)
