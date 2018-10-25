@@ -5,7 +5,7 @@
 
      
      
-   ![路側設施資料維護率KPI計算流程](https://github.com/trafficmotc/UploadInformation/blob/master/KPI/KPI%E8%A8%88%E7%AE%97%E6%B5%81%E7%A8%8B%E4%B9%8B%E5%AE%8C%E6%95%B4%E7%8E%87.png)
+   ![路側設施資料維護率KPI計算流程](https://github.com/trafficmotc/UploadInformation/blob/master/KPI/KPI%E8%A8%88%E7%AE%97%E6%B5%81%E7%A8%8B%E4%B9%8B%E7%B6%AD%E8%AD%B7%E7%8E%87.png)
      
 
 
