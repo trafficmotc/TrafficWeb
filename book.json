@@ -32,7 +32,6 @@
             "filename": "./footer.md" 
         }
     }
-    "plugins": ["image-class"],
     "plugins": ["splitter"],
     "tbfed-pagefooter": {
 
