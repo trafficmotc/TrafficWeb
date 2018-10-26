@@ -29,8 +29,7 @@
         "theme-comscore",
         "emphasize",
         "katex",
-        "my-theme": {
-            "font-family":"Microsoft JhengHei"
+        "font-family":"Microsoft JhengHei"
         }
     ]
 }
