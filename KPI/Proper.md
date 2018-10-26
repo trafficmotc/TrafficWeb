@@ -51,7 +51,7 @@ $$\mathbf{總設備即時妥善率} =\frac{最新XML檔案中檢核正常的設�
  $$=\frac{\sum各檔案檢核正常的設備數}{建構數 \times 統計區間應收次數} $$
  $$=\frac{\sum各檔案檢核正常的設備數}{統計區間應收總次數} $$
  
- **總設備平均妥善率：** 
+ **總設備平均妥善率圖示說明：** 
   
    <div align=center><img src="https://github.com/trafficmotc/UploadInformation/blob/master/KPI/總設備平均妥善率.png" width="800" height="450" /></div>
 
