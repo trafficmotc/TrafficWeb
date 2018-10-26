@@ -28,8 +28,6 @@
         "back-to-top-button",
         "theme-comscore",
         "emphasize",
-        "katex",
-        "font-family":"Microsoft JhengHei"
-        }
+        "katex"
     ]
 }
