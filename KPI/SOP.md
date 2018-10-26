@@ -33,4 +33,5 @@ $$\frac{統計期間內符合條件設備次數}{統計期間內應收總次數}
 $$統計期間總設備XX率之平均$$ 
 
 
-**更詳細KPI指標說明[請點我](https://github.com/trafficmotc/UploadInformation/blob/master/KPI/路側設施KPI說明_20181031.pdf)**
+**更詳細KPI指標說明[請點我](https://docs.google.com/viewer?url=https://github.com/trafficmotc/UploadInformation/blob/master/KPI/路側設施KPI說明_20181031.pdf?raw=true)**
+
