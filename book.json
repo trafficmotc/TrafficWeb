@@ -24,15 +24,16 @@
         "localized-footer",
         "back-to-top-button",
         "theme-comscore",
-        "emphasize"
-    ],
-    
+        "emphasize",
+        "packt-fontsettings"
+    ],   
     "pluginsConfig": {
-        "fontsettings": { 
-            "theme": 'white',
-            "family": 'sans',
-            "size": 2 ,      
+        "fontsettings": {
+            "theme": "white", 
+            "family": "Microsoft JhengHei",
+            "size": 2         
         }
     }
+}
 }
 }
