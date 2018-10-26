@@ -25,15 +25,7 @@
         "back-to-top-button",
         "theme-comscore",
         "emphasize",
-        "packt-fontsettings"
     ],   
-    "pluginsConfig": {
-        "fontsettings": {
-            "theme": "white", 
-            "family": "Microsoft JhengHei",
-            "size": 2         
-        }
-    }
 }
 }
 }
