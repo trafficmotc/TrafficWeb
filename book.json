@@ -27,13 +27,14 @@
         "emphasize"
     ],
     "pluginsConfig": {
-        "localized-footer": {
+           "localized-footer": {
             "hline": true,           
             "filename": "./footer.md" 
-            "fontsettings": {
+        }
+        "fontsettings": {
             "theme": "white", 
             "family": "Microsoft JhengHei",
-            "size": 2 
+            "size": 2         
         }
-    }
+    } 
 }
