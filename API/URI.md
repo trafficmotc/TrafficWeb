@@ -3,8 +3,8 @@
 
 開放資料可透過URL方式取得資料。
 
-###  Web API （application programming interface）表現方式：
-   分為網站根目錄（App Root）、資源路徑（Resource Path）和查詢選項（Query Options）![ ](https://ptx.transportdata.tw/PTX/Content/Images/sample_06.jpg)
+###  Web API 表現方式
+   Web API （application programming interface）表現方式分為網站根目錄（App Root）、資源路徑（Resource Path）和查詢選項（Query Options）![ ](https://ptx.transportdata.tw/PTX/Content/Images/sample_06.jpg)
 
 
 
