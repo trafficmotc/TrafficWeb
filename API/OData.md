@@ -24,5 +24,4 @@
 
 
 
-**更多OData服務開發教學請詳見以下連結**
-   [http://ptx.transportdata.tw/ptx/Download/公共運輸整合資訊平台資料服務開發實作.pdf](http://ptx.transportdata.tw/ptx/Download/公共運輸整合資訊平台資料服務開發實作.pdf)
+**更多OData服務開發教學[請點我](http://ptx.transportdata.tw/ptx/Download/公共運輸整合資訊平台資料服務開發實作.pdf)**
