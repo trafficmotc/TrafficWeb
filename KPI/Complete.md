@@ -16,7 +16,7 @@
 ## 【總設備即時完整率】
 
   
-   <img src="https://github.com/trafficmotc/UploadInformation/blob/master/KPI/總設備即時完整率.png" width="800" height="400" />
+   <img src="https://github.com/trafficmotc/UploadInformation/blob/master/KPI/總設備即時完整率.png" width="800" height="450" />
 
      
      
@@ -47,7 +47,7 @@ $$\mathbf{總設備即時完整率} =\frac{最新XML檔案所提供的設備數}
 
 
   
-   <img src="https://github.com/trafficmotc/UploadInformation/blob/master/KPI/總設備平均完整率.png" width="800" height="500" />
+   <img src="https://github.com/trafficmotc/UploadInformation/blob/master/KPI/總設備平均完整率.png" width="800" height="450" />
 
 
 
