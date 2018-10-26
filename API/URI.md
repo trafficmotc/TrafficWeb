@@ -19,9 +19,9 @@
 
 | 目錄結構 |  意義  |
 | :-- | :-------- |
-|  Version(版本)|提供服務的版本號。目前提供 v2（第二版），若沒有輸入，則預設最新版本 |
-| Service(服務)|依據載具本身提供的服務，例如:路況(Traffic)。|
-| Application(應用內容)| 根據每個服務而提不同的應用內容，例如:航空:路段（Section）、壅塞水準（CongestionLevel）、基礎路段組合(SectionLink)、路段線型圖資(SectionShape)、車輛偵測器(VD)、閉路電視攝影監控(CCTV)、資訊可變標誌(CMS)、自動車輛辨識(AVI)、自動車輛辨識配對(AVIPair)、電子標籤(ETag)、電子標籤配對(ETAGPair)等。|
+|  Version|提供服務的版本號。目前提供 v2（第二版），若沒有輸入，則預設最新版本 |
+| Service|依據載具本身提供的服務，例如:路況(Traffic)。|
+| Application| 根據每個服務而提不同的應用內容，例如:航空:路段（Section）、壅塞水準（CongestionLevel）、基礎路段組合(SectionLink)、路段線型圖資(SectionShape)、車輛偵測器(VD)、閉路電視攝影監控(CCTV)、資訊可變標誌(CMS)、自動車輛辨識(AVI)、自動車輛辨識配對(AVIPair)、電子標籤(ETag)、電子標籤配對(ETAGPair)等。|
 
 
 ###  Traffic API URI設計 
