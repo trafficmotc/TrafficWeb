@@ -15,7 +15,6 @@
   * [URI命名原則](API/URI.md)
   * [支援OData查詢語法](API/OData.md)
 * API資料使用注意事項
-  * [版本說明](FAQ/Version.md)
   * [VD資料使用注意事項](FAQ/VD.md)
   * [CCTV資料使用注意事項](FAQ/CCTV.md)
   * [CMS資料使用注意事項](FAQ/CMS.md)
