@@ -29,7 +29,9 @@
     
     "pluginsConfig": {
         "fontsettings": { 
-            "family": "Microsoft JhengHei",      
+            "theme": 'white',
+            "family": 'sans',
+            "size": 2 ,      
         }
     }
 }
