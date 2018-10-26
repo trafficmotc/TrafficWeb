@@ -35,9 +35,9 @@
     {
     "pluginsConfig": {
         "fontsettings": {
-            "theme": 'white', // 'sepia', 'night' or 'white',
-            "family": '微軟正黑體', // 'serif' or 'sans',
-            "size": 2         // 1 - 4
+            "theme": 'white', 
+            "family": '微軟正黑體',
+            "size": 2         
         }
     }
 }
