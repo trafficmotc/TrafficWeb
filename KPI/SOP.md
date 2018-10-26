@@ -31,3 +31,6 @@ $$\frac{統計期間內符合條件設備次數}{統計期間內應收總次數}
    -  指標包含完整率、即時率、維護率、妥善率 ：
    
 $$統計期間總設備XX率之平均$$ 
+
+
+**更詳細KPI指標說明[請點我](https://github.com/trafficmotc/UploadInformation/blob/master/KPI/路側設施KPI說明_20181031.pdf)**
