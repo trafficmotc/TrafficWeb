@@ -1,4 +1,4 @@
-## 【檔案介接率】
+## 檔案介接率
      
      
    <div align=center><img src="https://github.com/trafficmotc/UploadInformation/blob/master/KPI/KPI計算流程之介接率.png" width="800" height="600" /></div>
