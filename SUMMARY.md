@@ -12,14 +12,6 @@
 * API特色
   * [URI命名原則](API/URI.md)
   * [支援OData查詢語法](API/OData.md)
-* API資料使用注意事項
-  * [VD資料使用注意事項](FAQ/VD.md)
-  * [CCTV資料使用注意事項](FAQ/CCTV.md)
-  * [CMS資料使用注意事項](FAQ/CMS.md)
-  * [AVI資料使用注意事項](FAQ/AVI.md)
-  * [eTAG資料使用注意事項](FAQ/ETAG.md)
-  * [GVP資料使用注意事項](FAQ/GVP.md)
-  * [CVP資料使用注意事項](FAQ/CVP.md)
 * KPI指標說明
   * [KPI計算流程及說明](KPI/SOP.md)
   * [檔案介接率統計說明](KPI/File.md)
