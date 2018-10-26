@@ -3,7 +3,7 @@
 
 
 
-     <img src="https://github.com/trafficmotc/UploadInformation/blob/master/KPI/KPI%E8%A8%88%E7%AE%97%E6%B5%81%E7%A8%8B%E4%B9%8B%E5%8D%B3%E6%99%82%E7%8E%87.png" width="200" height="100" />
+     <img src="https://github.com/trafficmotc/UploadInformation/blob/master/KPI/KPI計算流程之即時率.png" width="200" height="100" />
      
    ![路側設施資料即時率KPI計算流程](https://github.com/trafficmotc/UploadInformation/blob/master/KPI/KPI%E8%A8%88%E7%AE%97%E6%B5%81%E7%A8%8B%E4%B9%8B%E5%8D%B3%E6%99%82%E7%8E%87.png)
      
