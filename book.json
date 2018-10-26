@@ -17,5 +17,13 @@
             "google": null,
             "facebook": null
         }
-    }
+    },
+    "plugins": [
+        "-lunr", "-search", "search-plus","-highlight",
+        "splitter",
+        "localized-footer",
+        "back-to-top-button",
+        "theme-comscore",
+        "emphasize",
+    ]
 }
