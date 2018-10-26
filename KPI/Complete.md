@@ -5,7 +5,7 @@
 
      
 
-   <img src="https://github.com/trafficmotc/UploadInformation/blob/master/KPI/KPI計算流程之完整率.pngg" width="800" height="600" />
+   <img src="https://github.com/trafficmotc/UploadInformation/blob/master/KPI/KPI計算流程之完整率.png" width="800" height="600" />
 
      
   
