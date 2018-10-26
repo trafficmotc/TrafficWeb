@@ -1,7 +1,7 @@
 ## 【檔案介接率】
      
      
-   <div align=center>><img src="https://github.com/trafficmotc/UploadInformation/blob/master/KPI/KPI計算流程之介接率.png" width="800" height="600" /></div>
+   <div align=center><img src="https://github.com/trafficmotc/UploadInformation/blob/master/KPI/KPI計算流程之介接率.png" width="800" height="600" /></div>
      
 
 ----
@@ -22,4 +22,4 @@ $$\mathbf{總設備靜態檔案介接率} =\frac{實際回傳靜態𝐗𝐌𝐋�
 
 ### 【檔案介接率範例】
    
-   <div align=center><img src="https://github.com/trafficmotc/UploadInformation/blob/master/KPI/介接率範例圖.png" width="500" height="200" /></div>
+   ![單支設備累計維護率](https://github.com/trafficmotc/UploadInformation/blob/master/KPI/介接率範例圖.png)
