@@ -32,7 +32,12 @@
             "filename": "./footer.md" 
         }
     }
-    "plugins": ["splitter"],
+    "plugins": [
+    "image-class"
+    ],
+    "plugins": [
+    "splitter"
+    ],
     "tbfed-pagefooter": {
 
     "copyright": "使用中華民國交通部 版權所有 Copyright © 2018 MOTC All Rights Reserved.",
