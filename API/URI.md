@@ -1,9 +1,9 @@
-## 【URI命名原則】
+## URI命名原則
 
 
 交通部即時路況資訊平臺Open API開放資料可透過URL方式取得資料，以下將針對Traffic API URI進行說明。
 
-###  Web API 表現方式
+###  【Web API 表現方式】
    Web API （application programming interface）表現方式分為網站根目錄（App Root）、資源路徑（Resource Path）和查詢選項（Query Options）![ ](https://ptx.transportdata.tw/PTX/Content/Images/sample_06.jpg)
 
 
@@ -24,7 +24,7 @@
 | Application| 根據每個服務而提不同的應用內容，例如:路段（Section）、壅塞水準（CongestionLevel）、基礎路段組合(SectionLink)、路段線型圖資(SectionShape)、車輛偵測器(VD)、閉路電視攝影監控(CCTV)、資訊可變標誌(CMS)、自動車輛辨識(AVI)、自動車輛辨識配對(AVIPair)、電子標籤(ETag)、電子標籤配對(ETAGPair)等。|
 
 
-###  Traffic API URI設計 
+###  【Traffic API URI設計】 
 
 - Traffic Static API URI規則：
    + 取得指定[縣市]發布路段基本資料/Road/Traffic/Section/City/{City}
