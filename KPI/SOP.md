@@ -9,5 +9,23 @@
 
      
      
-   ![路側設施資料KPI計算流程](https://github.com/trafficmotc/UploadInformation/blob/master/KPI/%E8%B7%AF%E5%81%B4%E8%A8%AD%E6%96%BD%E8%B3%87%E6%96%99KPI%E8%A8%88%E7%AE%97%E6%B5%81%E7%A8%8B.png)
-     
+   <div align=center><img src="https://github.com/trafficmotc/UploadInformation/blob/master/KPI/路側設施資料KPI計算流程.png" width="800" height="600" /></div>
+   
+  ### 總設備即時XX率 
+  
+   -  完整率、即時率、維護率、妥善率 ：
+
+$$\frac{新XML檔案中符合條件的設備數}{建構數} $$
+
+
+  ### 單支設備指標統計(小時累計/每日累積/當日累積) 
+  
+   -  完整率、即時率、維護率、妥善率 ：
+   
+$$frac{統計期間內符合條件設備次數}{統計期間內應收總次數
+} $$     
+
+  ### 總設備指標統計(小時累計/每日累積/當日累積) 
+  
+   -  完整率、即時率、維護率、妥善率 ：統計期間總設備XX率之平均
+   
