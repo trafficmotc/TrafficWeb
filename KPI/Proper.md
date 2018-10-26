@@ -12,9 +12,9 @@
 ## 【總設備即時妥善率】
 
   
-   <div align=center><img src="https://github.com/trafficmotc/UploadInformation/blob/master/KPI/總設備即時妥善率.jpg" width="800" height="450" /></div>
+   <div align=center><img src="https://github.com/trafficmotc/UploadInformation/blob/master/KPI/總設備即時妥善率.png" width="800" height="450" /></div>
 
-   <div align=center><img src="https://github.com/trafficmotc/UploadInformation/blob/master/KPI/妥善率異常內容檢核.jpg.jpg" width="800" height="450" /></div>     
+   <div align=center><img src="https://github.com/trafficmotc/UploadInformation/blob/master/KPI/妥善率異常內容檢核.png" width="800" height="450" /></div>     
      
      
 ### 總設備即時妥善率公式：
@@ -48,7 +48,7 @@ $$\mathbf{總設備即時妥善率} =\frac{最新XML檔案中檢核正常的設�
 
 
   
-   <div align=center><img src="https://github.com/trafficmotc/UploadInformation/blob/master/KPI/總設備平均妥善率.jpg" width="800" height="450" /></div>
+   <div align=center><img src="https://github.com/trafficmotc/UploadInformation/blob/master/KPI/總設備平均妥善率.png" width="800" height="450" /></div>
 
 
 ### 總設備 (小時累計/每日累計/當日累計)平均妥善率公式：
