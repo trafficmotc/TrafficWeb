@@ -11,9 +11,6 @@
 
 ## 【總設備即時完整率】
 
-  
-   <div align=center><img src="https://github.com/trafficmotc/UploadInformation/blob/master/KPI/總設備即時完整率.png" width="800" height="450" /></div>
-
      
      
   **總設備即時完整率公式：**
@@ -21,6 +18,9 @@
 
 $$\mathbf{總設備即時完整率} =\frac{最新XML檔案所提供的設備數}{建構數} $$
 
+
+  
+   <div align=center><img src="https://github.com/trafficmotc/UploadInformation/blob/master/KPI/總設備即時完整率.png" width="800" height="450" /></div>
 
 
 -----
