@@ -9,11 +9,11 @@
 <center><iframe width="560" height="320" src="https://www.youtube.com/embed/hDTEJAxW0Rs" frameborder="0" gesture="media" allowfullscreen></iframe></center>
 
 
-### 透過EXCEL吃OAS API 結構目錄
+### EXCEL吃OAS API 結構目錄
 
 [影片教學請點我](https://goo.gl/yYoYmm)
 
-<center><iframe width="560" height="320" src="https://www.youtube.com/embed/8ypMktRRL88" frameborder="0" gesture="media" allowfullscreen></iframe></center>
+<div><iframe width="560" height="320" src="https://www.youtube.com/embed/8ypMktRRL88" frameborder="0" gesture="media" allowfullscreen></iframe></div>
 
 
 ### 從EXCEL拉取本平臺 API資料
