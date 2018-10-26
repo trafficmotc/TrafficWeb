@@ -31,10 +31,12 @@
    + 取得指定[縣市]路況壅塞水準定義資料/Road/Traffic/CongestionLevel/City/{City}
    + 取得指定[縣市]發布路段與基礎路段組合對應資料/Road/Traffic/SectionLink/City/{City}
    + 取得指定[縣市]發布路段線型圖資資料/Road/Traffic/SectionShape/City/{City}
+   
    + 取得[公路總局]發布路段基本資料/Road/Traffic/Section/Highway
    + 取得[公路總局]路況壅塞水準定義資料/Road/Traffic/CongestionLevel/Highway
    + 取得[公路總局]發布路段與基礎路段組合對應資料/Road/Traffic/SectionLink/Highway
    + 取得[公路總局]發布路段線型圖資資料/Road/Traffic/SectionShape/Highway
+   
    + 取得[高速公路局]發布路段基本資料/Road/Traffic/Section/Freeway
    + 取得[高速公路局]路況壅塞水準定義資料/Road/Traffic/CongestionLevel/Freeway
    + 取得[高速公路局]發布路段與基礎路段組合對應資料/Road/Traffic/SectionLink/Freeway
@@ -74,6 +76,7 @@
    + 取得指定[縣市]電子標籤即時資料/Road/Traffic/Live/ETag/City/{City}
    + 取得指定[縣市]透過車載GPS探偵產生之路段即時資料/Road/Traffic/Live/GVP/City/{City}
    + 取得指定[縣市]透過手機網路信令探偵產生之路段即時資料/Road/Traffic/Live/CVP/City/{City}
+   
    + 取得[公路總局]路段即時資料/Road/Traffic/Live/Highway
    + 取得[公路總局]車輛偵測器即時資料/Road/Traffic/Live/VD/Highway
    + 取得[公路總局]資訊可變標誌即時資料/Road/Traffic/Live/CMS/Highway
@@ -81,6 +84,7 @@
    + 取得[公路總局]電子標籤即時資料/Road/Traffic/Live/ETag/Highway
    + 取得[公路總局]透過車載GPS探偵產生之路段即時資料/Road/Traffic/Live/GVP/Highway
    + 取得[公路總局]透過手機網路信令探偵產生之路段即時資料/Road/Traffic/Live/CVP/Highway
+   
    + 取得[高速公路局]路段即時資料/Road/Traffic/Live/Freeway
    + 取得[高速公路局]車輛偵測器即時資料/Road/Traffic/Live/VD/Freeway
    + 取得[高速公路局]資訊可變標誌即時資料/Road/Traffic/Live/CMS/Freeway
