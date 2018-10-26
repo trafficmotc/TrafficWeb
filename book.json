@@ -28,6 +28,7 @@
         "back-to-top-button",
         "theme-comscore",
         "emphasize",
+        "katex",
         "my-theme": {
             "font-family":"Microsoft JhengHei"
         }
