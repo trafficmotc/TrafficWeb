@@ -1,7 +1,7 @@
 ## 【URI命名原則】
 
 
-開放資料可透過URL方式取得資料。
+交通部即時路況資訊平臺Open API開放資料可透過URL方式取得資料，以下將針對Traffic API URI進行說明。
 
 ###  Web API 表現方式
    Web API （application programming interface）表現方式分為網站根目錄（App Root）、資源路徑（Resource Path）和查詢選項（Query Options）![ ](https://ptx.transportdata.tw/PTX/Content/Images/sample_06.jpg)
