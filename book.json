@@ -30,15 +30,10 @@
         "localized-footer": {
             "hline": true,           
             "filename": "./footer.md" 
-        }
-    }
-    {
-    "pluginsConfig": {
-        "fontsettings": {
+            "fontsettings": {
             "theme": "white", 
             "family": "Microsoft JhengHei",
-            "size": 2         
+            "size": 2 
         }
     }
-}
 }
