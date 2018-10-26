@@ -33,9 +33,6 @@
         }
     }
     "plugins": [
-    "image-class"
-    ],
-    "plugins": [
     "splitter"
     ],
     "tbfed-pagefooter": {
