@@ -10,9 +10,9 @@
 
 - 網站根目錄：應用服務的基本網址，主要組成為（Domain）網域名稱和（App）應用程式名稱，並且透過 HTTP 協定連結而形成服務的基本網址。
 
-    Domain: ptx.transportdata.tw
+    Domain: http://traffic.transportdata.tw/MOTC
 
-     App : MOTC或PTX
+     App : MOTC或Traffic
      
 - 資源路徑：指定資源項目路徑名稱。
  
@@ -24,23 +24,70 @@
 | Application（應用內容）| 根據每個服務而提不同的應用內容，例如:航空:航班資訊（FIDS）和機場資訊（Airport）等。|
 
 
-###  各運具API URI設計 
+###  Traffic API URI設計 
 
-- 航空API URI規則：[http://ptx.transportdata.tw/MOTC/v2/Air/{Data}](https://ptx.transportdata.tw/MOTC/Swagger/)
+- Traffic Static API URI規則：
+   + 取得指定[縣市]發布路段基本資料/Road/Traffic/Section/City/{City}
+   + 取得指定[縣市]路況壅塞水準定義資料/Road/Traffic/CongestionLevel/City/{City}
+   + 取得指定[縣市]發布路段與基礎路段組合對應資料/Road/Traffic/SectionLink/City/{City}
+   + 取得指定[縣市]發布路段線型圖資資料/Road/Traffic/SectionShape/City/{City}
+   + 取得[公路總局]發布路段基本資料/Road/Traffic/Section/Highway
+   + 取得[公路總局]路況壅塞水準定義資料/Road/Traffic/CongestionLevel/Highway
+   + 取得[公路總局]發布路段與基礎路段組合對應資料/Road/Traffic/SectionLink/Highway
+   + 取得[公路總局]發布路段線型圖資資料/Road/Traffic/SectionShape/Highway
+   + 取得[高速公路局]發布路段基本資料/Road/Traffic/Section/Freeway
+   + 取得[高速公路局]路況壅塞水準定義資料/Road/Traffic/CongestionLevel/Freeway
+   + 取得[高速公路局]發布路段與基礎路段組合對應資料/Road/Traffic/SectionLink/Freeway
+   + 取得[高速公路局]發布路段線型圖資資料/Road/Traffic/SectionShape/Freeway
 
-- 市區公車API URI規則：http://ptx.transportdata.tw/MOTC/v2/Bus/{Data}/City/{City}/{RouteName}
+   + 取得指定[縣市]車輛偵測器基本資料/Road/Traffic/VD/City/{City}
+   + 取得指定[縣市]閉路電視攝影監控基本資料/Road/Traffic/CCTV/City/{City}
+   + 取得指定[縣市]資訊可變標誌基本資料/Road/Traffic/CMS/City/{City}
+   + 取得指定[縣市]自動車輛辨識基本資料/Road/Traffic/AVI/City/{City}
+   + 取得指定[縣市]自動車輛辨識配對基本資料/Road/Traffic/AVIPair/City/{City}
+   + 取得指定[縣市]電子標籤基本資料/Road/Traffic/ETag/City/{City}
+   + 取得指定[縣市]電子標籤配對基本資料/Road/Traffic/ETagPair/City/{City}
 
-- 公路客運API URI規則：http://ptx.transportdata.tw/MOTC/v2/Bus/{Data}/InterCity/{RouteName}
+   + 取得[公路總局]車輛偵測器基本資料/Road/Traffic/VD/Highway
+   + 取得[公路總局]閉路電視攝影監控基本資料/Road/Traffic/CCTV/Highway
+   + 取得[公路總局]資訊可變標誌基本資料/Road/Traffic/CMS/Highway
+   + 取得[公路總局]自動車輛辨識基本資料/Road/Traffic/AVI/Highway
+   + 取得[公路總局]自動車輛辨識配對基本資料/Road/Traffic/AVIPair/Highway
+   + 取得[公路總局]電子標籤基本資料/Road/Traffic/ETag/Highway
+   + 取得[公路總局]電子標籤配對基本資料/Road/Traffic/ETagPair/Highway
 
-- 軌道API URI規則：http://ptx.transportdata.tw/MOTC/v2/Rail/{Operator}/{Data}
-  + {Operator}：TRA: 台鐵; THSR: 高鐵
+   + 取得[高速公路局]車輛偵測器基本資料/Road/Traffic/VD/Freeway
+   + 取得[高速公路局]閉路電視攝影監控基本資料/Road/Traffic/CCTV/Freeway
+   + 取得[高速公路局]資訊可變標誌基本資料/Road/Traffic/CMS/Freeway
+   + 取得[高速公路局]自動車輛辨識基本資料/Road/Traffic/AVI/Freeway
+   + 取得[高速公路局]自動車輛辨識配對基本資料/Road/Traffic/AVIPair/Freeway
+   + 取得[高速公路局]電子標籤基本資料/Road/Traffic/ETag/Freeway
+   + 取得[高速公路局]電子標籤配對基本資料/Road/Traffic/ETagPair/Freeway
 
-- 捷運API URI規則：http://ptx.transportdata.tw/MOTC/v2/Rail/Metro/{Data}/{Operator}
-  + {Operator}：TRTC: 北捷; KRTC: 高捷;TYTC: 桃捷
-
-- 自行車API URI規則：http://ptx.transportdata.tw/MOTC/v2/Bike/{Data}/{City}
 
 
-### PTX API URI說明文件詳見連結請詳見以下連結
+- Traffic Live API URI規則：
+   + 取得指定[縣市]路段即時資料/Road/Traffic/Live/City/{City}
+   + 取得指定[縣市]車輛偵測器即時資料/Road/Traffic/Live/VD/City/{City}
+   + 取得指定[縣市]資訊可變標誌即時資料/Road/Traffic/Live/CMS/City/{City}
+   + 取得指定[縣市]自動車輛辨識即時資料/Road/Traffic/Live/AVI/City/{City}
+   + 取得指定[縣市]電子標籤即時資料/Road/Traffic/Live/ETag/City/{City}
+   + 取得指定[縣市]透過車載GPS探偵產生之路段即時資料/Road/Traffic/Live/GVP/City/{City}
+   + 取得指定[縣市]透過手機網路信令探偵產生之路段即時資料/Road/Traffic/Live/CVP/City/{City}
+   + 取得[公路總局]路段即時資料/Road/Traffic/Live/Highway
+   + 取得[公路總局]車輛偵測器即時資料/Road/Traffic/Live/VD/Highway
+   + 取得[公路總局]資訊可變標誌即時資料/Road/Traffic/Live/CMS/Highway
+   + 取得[公路總局]自動車輛辨識即時資料/Road/Traffic/Live/AVI/Highway
+   + 取得[公路總局]電子標籤即時資料/Road/Traffic/Live/ETag/Highway
+   + 取得[公路總局]透過車載GPS探偵產生之路段即時資料/Road/Traffic/Live/GVP/Highway
+   + 取得[公路總局]透過手機網路信令探偵產生之路段即時資料/Road/Traffic/Live/CVP/Highway
+   + 取得[高速公路局]路段即時資料/Road/Traffic/Live/Freeway
+   + 取得[高速公路局]車輛偵測器即時資料/Road/Traffic/Live/VD/Freeway
+   + 取得[高速公路局]資訊可變標誌即時資料/Road/Traffic/Live/CMS/Freeway
+   + 取得[高速公路局]自動車輛辨識即時資料/Road/Traffic/Live/AVI/Freeway
+   + 取得[高速公路局]電子標籤即時資料/Road/Traffic/Live/ETag/Freeway
+   + 取得[高速公路局]透過車載GPS探偵產生之路段即時資料/Road/Traffic/Live/GVP/Freeway
+   + 取得[高速公路局]透過手機網路信令探偵產生之路段即時資料/Road/Traffic/Live/CVP/Freeway
 
-   [http://ptx.transportdata.tw/ptx/Download/API_URI_Convention文件_v1.pdf](http://ptx.transportdata.tw/ptx/Download/API_URI_Convention文件_v1.pdf)
+
+
