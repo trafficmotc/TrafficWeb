@@ -16,7 +16,7 @@
 <div><iframe width="560" height="320" src="https://www.youtube.com/embed/8ypMktRRL88" frameborder="0" gesture="media" allowfullscreen></iframe></div>
 
 
-### 從EXCEL拉取本平臺 API資料
+### EXCEL拉取本平臺 API資料
 
 [影片教學請點我](https://goo.gl/J6EV52)
 
