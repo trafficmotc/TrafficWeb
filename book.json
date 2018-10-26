@@ -28,10 +28,8 @@
     ],
     
     "pluginsConfig": {
-        "fontsettings": {
-            "theme": "white", 
-            "family": "Microsoft JhengHei",
-            "size": 2         
+        "fontsettings": { 
+            "family": "Microsoft JhengHei",      
         }
     }
 }
