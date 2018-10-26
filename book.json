@@ -35,4 +35,15 @@
     {
     "plugins" : [ "image-class" ]
     }
+    “plugins”: [ “splitter” ]
+    }
+    “tbfed-pagefooter”: {
+
+    “copyright”: “使用中華民國交通部 版權所有 Copyright © 2018 MOTC All Rights Reserved.</a>发布”,
+
+    “modify_label”: “该文件修订时间：”,
+
+    “modify_format”: “YYYY-MM-DD HH:mm:ss”
+
+},
 }
