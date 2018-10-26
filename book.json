@@ -26,10 +26,13 @@
         "theme-comscore",
         "emphasize"
     ],
+    
     "pluginsConfig": {
-           "localized-footer": {
-            "hline": true,           
-            "filename": "./footer.md" 
+        "fontsettings": {
+            "theme": "white", 
+            "family": "Microsoft JhengHei",
+            "size": 2         
         }
-    } 
+    }
+}
 }
