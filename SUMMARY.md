@@ -6,7 +6,6 @@
   * [註冊申請](Member/GoRegister.md)
   * [常見問題](Member/MemberFAQ.md)
 * API使用 
-  * [資料服務說明文件](http://traffic.transportdata.tw/MOTC)
   * [Swagger說明](API/Swagger.md)
   * [線上教學](API/Demo.md)
   * [範例程式](api/Code.md)
