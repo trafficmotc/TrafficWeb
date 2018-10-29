@@ -30,9 +30,5 @@
         "theme-comscore",
         "emphasize"
     ]
-    {
-    "styles": {
-        "website": "website.css",
-    }
 }
 }
