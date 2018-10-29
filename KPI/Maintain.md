@@ -1,6 +1,6 @@
 # 設備維護率
      
-![ ](https://github.com/trafficmotc/UploadInformation/blob/master/KPI/KPI計算流程之維護率.png)
+![ ](https://raw.githubusercontent.com/trafficmotc/UploadInformation/master/KPI/KPI計算流程之維護率.png)
 
 ## 【總設備即時維護率】
 
@@ -13,7 +13,7 @@ $$\mathbf{總設備即時維護率} =\frac{最新XML檔案中維護中的設備�
 
 ※備註：維護中設備：𝑺𝒕𝒂𝒕𝒖𝒔非0
 
-![ ](https://github.com/trafficmotc/UploadInformation/blob/master/KPI/總設備即時維護率.png)  
+![ ](https://raw.githubusercontent.com/trafficmotc/UploadInformation/master/KPI/總設備即時維護率.png)  
 
      
      
@@ -24,7 +24,7 @@ $$\mathbf{總設備即時維護率} =\frac{最新XML檔案中維護中的設備�
 
  $$\mathbf{單支設備累計維護率} =\frac{統計期間內設備維護中的總次數}{統計期間內應收總次數} $$
 
-![ ](https://github.com/trafficmotc/UploadInformation/blob/master/KPI/單支設備維護率.png)  
+![ ](https://raw.githubusercontent.com/trafficmotc/UploadInformation/master/KPI/單支設備維護率.png)  
 
 
 
@@ -40,5 +40,5 @@ $$\mathbf{總設備即時維護率} =\frac{最新XML檔案中維護中的設備�
  $$=\frac{\sum各檔案維護中的設備數}{統計區間應收總次數} $$
  
 
-![ ](https://github.com/trafficmotc/UploadInformation/blob/master/KPI/總設備平均維護率.png)  
+![ ](https://raw.githubusercontent.com/trafficmotc/UploadInformation/master/KPI/總設備平均維護率.png)  
 
