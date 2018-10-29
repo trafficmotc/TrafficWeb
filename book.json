@@ -24,11 +24,13 @@
         "search-plus",
         "-highlight",
         "splitter",
-        "youtube",
         "localized-footer",
         "back-to-top-button",
         "theme-comscore",
         "emphasize"
     ]
+    {
+    "plugins": ["youtube"]
+}
 }
 }
