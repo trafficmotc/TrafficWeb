@@ -1,9 +1,7 @@
 # 設備妥善率
 
 
-
-   <div align=center><img src="https://github.com/trafficmotc/UploadInformation/blob/master/KPI/KPI計算流程之妥善率.png" width="800" height="600" /></div>
-
+ ![](https://github.com/trafficmotc/UploadInformation/blob/master/KPI/KPI計算流程之妥善率.png)
  
 
 
@@ -17,13 +15,16 @@ $$\mathbf{總設備即時妥善率} =\frac{最新XML檔案中檢核正常的設�
 
 **總設備即時妥善率圖示說明：**
 
-   <div align=center><img src="https://github.com/trafficmotc/UploadInformation/blob/master/KPI/總設備即時妥善率.png" width="800" height="450" /></div>
+
+ ![](https://github.com/trafficmotc/UploadInformation/blob/master/KPI/總設備即時妥善率.png)
+
+
    
 **總設備即時妥善率異常內容檢核：**
 
-   <div align=center><img src="https://github.com/trafficmotc/UploadInformation/blob/master/KPI/妥善率異常內容檢核.png" width="800" height="450" /></div>     
      
-     
+![](https://github.com/trafficmotc/UploadInformation/blob/master/KPI/妥善率異常內容檢核.png)
+   
 
 
 ## 【單支設備累計妥善率】
@@ -37,8 +38,8 @@ $$\mathbf{總設備即時妥善率} =\frac{最新XML檔案中檢核正常的設�
 
 **單支設備累計妥善率圖示說明：**
 
-  <div align=center><img src="https://github.com/trafficmotc/UploadInformation/blob/master/KPI/單支設備妥善率.png" width="800" height="450" /></div>
 
+![](https://github.com/trafficmotc/UploadInformation/blob/master/KPI/單支設備妥善率.png)
 
 
 ## 【總設備平均妥善率】
@@ -52,7 +53,7 @@ $$\mathbf{總設備即時妥善率} =\frac{最新XML檔案中檢核正常的設�
  $$=\frac{\sum各檔案檢核正常的設備數}{統計區間應收總次數} $$
  
  **總設備平均妥善率圖示說明：** 
-  
-   <div align=center><img src="https://github.com/trafficmotc/UploadInformation/blob/master/KPI/總設備平均妥善率.png" width="800" height="450" /></div>
 
+
+![](https://github.com/trafficmotc/UploadInformation/blob/master/KPI/總設備平均妥善率.png)
 
