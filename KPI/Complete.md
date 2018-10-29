@@ -15,7 +15,6 @@ $$\mathbf{總設備即時完整率} =\frac{最新XML檔案所提供的設備數}
 
  **總設備即時完整率圖示說明：** 
   
-   <div align=center><img src="https://github.com/trafficmotc/UploadInformation/blob/master/KPI/總設備即時完整率.png" width="800" height="450" /></div>
 
  ![ ](https://github.com/trafficmotc/UploadInformation/blob/master/KPI/%E7%B8%BD%E8%A8%AD%E5%82%99%E5%8D%B3%E6%99%82%E5%AE%8C%E6%95%B4%E7%8E%87.png)
 
@@ -28,7 +27,6 @@ $$\mathbf{總設備即時完整率} =\frac{最新XML檔案所提供的設備數}
 
  **單支設備累計完整率圖示說明：** 
  
-  <div align=center><img src="https://github.com/trafficmotc/UploadInformation/blob/master/KPI/單支設備完整率.png" width="800" height="450" /></div>
 
  ![ ](https://github.com/trafficmotc/UploadInformation/blob/master/KPI/單支設備完整率.png)
 
@@ -44,7 +42,5 @@ $$\mathbf{總設備即時完整率} =\frac{最新XML檔案所提供的設備數}
  
  **總設備平均完整率圖示說明：** 
   
-   <div align=center><img src="https://github.com/trafficmotc/UploadInformation/blob/master/KPI/總設備平均完整率.png" width="800" height="450" /></div>
-   
-   
+ 
  ![ ](https://github.com/trafficmotc/UploadInformation/blob/master/KPI/總設備平均完整率.png)
