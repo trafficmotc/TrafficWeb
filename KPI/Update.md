@@ -50,4 +50,4 @@ $$\mathbf{總設備即時率} =\frac{最新XML檔案中符合即時的設備數}
  $$=\frac{\sum各檔案符合即時的設備數}{建構數 \times 統計區間 應收次數} $$
  $$=\frac{\sum各檔案符合即時的設備數}{統計區間應收總次數} $$
  
-![ ](https://github.com/trafficmotc/UploadInformation/blob/master/KPI/總設備平均即時率.png)
+![ ](https://raw.githubusercontent.com/trafficmotc/UploadInformation/master/KPI/總設備平均即時率.png)
