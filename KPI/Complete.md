@@ -7,6 +7,10 @@
  ![ ](https://github.com/trafficmotc/UploadInformation/blob/master/KPI/KPI計算流程之完整率.png)
 
 
+!【完整率流程圖】【2】
+
+【2】:https://github.com/trafficmotc/UploadInformation/blob/master/KPI/KPI計算流程之完整率.png
+
 ## 【總設備即時完整率】
 
      
