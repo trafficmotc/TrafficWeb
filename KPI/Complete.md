@@ -43,4 +43,4 @@ $$\mathbf{總設備即時完整率} =\frac{最新XML檔案所提供的設備數}
  **總設備平均完整率圖示說明：** 
   
  
- ![ ](https://github.com/trafficmotc/UploadInformation/blob/master/KPI/總設備平均完整率.png)
+ ![ ](https://raw.githubusercontent.com/trafficmotc/UploadInformation/master/KPI/總設備平均完整率.png)
