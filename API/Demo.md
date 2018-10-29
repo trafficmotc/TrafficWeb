@@ -6,21 +6,23 @@
 
 [影片教學請點我](https://youtu.be/hDTEJAxW0Rs)
 
-<center><iframe width="560" height="320" src="https://www.youtube.com/embed/hDTEJAxW0Rs" frameborder="0" gesture="media" allowfullscreen></iframe></center>
+{% youtube src="https://www.youtube.com/embed/hDTEJAxW0Rs" %}{% endyoutube %}
+
 
 
 ### 【Excel吃OAS API 結構目錄】
 
 [影片教學請點我](https://goo.gl/yYoYmm)
 
-<div><iframe width="560" height="320" src="https://www.youtube.com/embed/8ypMktRRL88" frameborder="0" gesture="media" allowfullscreen></iframe></div>
+{% youtube src="https://www.youtube.com/embed/8ypMktRRL88" %}{% endyoutube %}
+
 
 
 ### 【Excel拉取本平臺 API資料】
 
 [影片教學請點我](https://goo.gl/J6EV52)
 
-<center><iframe width="560" height="320" src="https://www.youtube.com/embed/8ypMktRRL88" frameborder="0" gesture="media" allowfullscreen></iframe></center>
 
+{% youtube src="https://www.youtube.com/embed/8ypMktRRL88" %}{% endyoutube %}
 
 
