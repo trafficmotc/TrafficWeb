@@ -1,8 +1,7 @@
 # 設備即時率
 
 
-   <div align=center><img src="https://github.com/trafficmotc/UploadInformation/blob/master/KPI/KPI計算流程之即時率.png" width="800" height="600" /></div>
-
+![ ](https://github.com/trafficmotc/UploadInformation/blob/master/KPI/KPI計算流程之即時率.png)
 
 
 ## 【最新檔案即時率】
@@ -25,9 +24,8 @@ $$\mathbf{最新檔案即時率} =\frac{𝑺𝒚𝒔𝒕𝒆𝒎𝑻𝒊𝒎𝒆
 
 $$\mathbf{總設備即時率} =\frac{最新XML檔案中符合即時的設備數}{建構數} $$
 
+![ ](https://github.com/trafficmotc/UploadInformation/blob/master/KPI/總設備即時率.png)
 
-  
-   <div align=center><img src="https://github.com/trafficmotc/UploadInformation/blob/master/KPI/總設備即時率.png" width="800" height="450" /></div>
      
 
 
@@ -38,8 +36,7 @@ $$\mathbf{總設備即時率} =\frac{最新XML檔案中符合即時的設備數}
  $$\mathbf{單支設備(小時累計/每日累計/當日累計)即時率} =\frac{統計期間內設備符合即時的總次數}{統計期間內應收總次數} $$
 
 
-   <div align=center><img src="https://github.com/trafficmotc/UploadInformation/blob/master/KPI/單支設備即時率.png" width="800" height="450" /></div>
-
+![ ](https://github.com/trafficmotc/UploadInformation/blob/master/KPI/單支設備即時率.png)
 
 
 
@@ -48,9 +45,10 @@ $$\mathbf{總設備即時率} =\frac{最新XML檔案中符合即時的設備數}
 
 **總設備(小時累計/每日累計/當日累計)平均即時率公式：**
 
- $$\mathbf{總設備(小時累計/每日累計/當日累計)平均即時率} =統計區間總設備符合即時率之平均$$
+ $$\mathbf{總設備(小時累計/每日累計/當日累計)平均即時率} $$
+ $$=統計區間總設備符合即時率之平均$$
  $$=\frac{\sum各檔案符合即時的設備數}{建構數 \times 統計區間 應收次數} $$
  $$=\frac{\sum各檔案符合即時的設備數}{統計區間應收總次數} $$
  
-  
-   <div align=center><img src="https://github.com/trafficmotc/UploadInformation/blob/master/KPI/總設備平均即時率.png" width="800" height="450" /></div>
+![ ](https://github.com/trafficmotc/UploadInformation/blob/master/KPI/總設備平均即時率.png)
+  \
