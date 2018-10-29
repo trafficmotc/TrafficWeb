@@ -6,7 +6,10 @@
 
 
    本專案為檢定各來源單位所傳送之資料品質是否良好，因此定義了五種關鍵效能指標(KPI)來進行評估作業，分別為資料完整率、資料維護率、資料妥善率、資料即時率以及檔案介接率，並以這五種指標來檢定單一設備與來源單位之資料品質，而系統必須提供介面讓管理者可設定設備之資料完整率、資料維護率、資料妥善率、資料即時率等四項門檻值，當該設備的資料所計算出來的值超過該門檻值，方可稱為正常或異常。
-  
+ 
+ 
+    ![ ](https://github.com/trafficmotc/UploadInformation/blob/master/KPI/路側設施資料KPI計算流程.png)
+    
    <div align=center><img src="https://github.com/trafficmotc/UploadInformation/blob/master/KPI/路側設施資料KPI計算流程.png" width="800" height="600" /></div>
    
   ### 【總設備即時XX率】 
