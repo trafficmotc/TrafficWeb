@@ -2,13 +2,6 @@
 
 路側設施即時交通資料庫系統提供結構化、多彈性、多種領域API服務，以下將教學使用者如何透過所申請的App ID及App Key存取Swagger資料。
 
-### 【Swagger使用說明】
-
-[影片教學請點我](https://youtu.be/hDTEJAxW0Rs)
-
-{% youtube src="https://www.youtube.com/embed/hDTEJAxW0Rs" %}{% endyoutube %}
-
-
 
 ### 【Excel吃OAS API 結構目錄】
 
