@@ -22,4 +22,4 @@ $$\mathbf{總設備靜態檔案介接率} =\frac{實際回傳靜態𝐗𝐌𝐋�
 
 ### 【檔案介接率範例】
    
-   ![單支設備累計維護率](https://raw.githubusercontent.com/trafficmotc/UploadInformation/master/KPI/介接率範例圖.png)
+   ![](https://raw.githubusercontent.com/trafficmotc/UploadInformation/master/KPI/介接率範例圖.png)
