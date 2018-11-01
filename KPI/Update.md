@@ -1,7 +1,7 @@
 # 設備即時率
 
 
-![適用於車輛偵測器(VD)、自動車輛辨識(AVI)](https://raw.githubusercontent.com/trafficmotc/UploadInformation/master/KPI/KPI計算流程之即時率.png)
+![即時率適用於車輛偵測器(VD)、自動車輛辨識(AVI)](https://raw.githubusercontent.com/trafficmotc/UploadInformation/master/KPI/KPI計算流程之即時率.png)
 
 
 ## 【最新檔案即時率】
