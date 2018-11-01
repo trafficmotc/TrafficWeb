@@ -6,6 +6,7 @@
   * [註冊申請](Member/GoRegister.md)
   * [常見問題](Member/MemberFAQ.md)
 * API使用 
+  * [API更新週期](API/UpdateFrequency.md)
   * [Swagger說明](API/Swagger.md)
   * [線上教學](API/Demo.md)
   * [常見問題](API/FAQ.md)
