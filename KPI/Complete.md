@@ -1,7 +1,7 @@
 # 設備完整率
 
 
- ![適用於車輛偵測器(VD)、閉路電視攝影監控(CCTV)、資訊可變標誌(CMS)、自動車輛辨識(AVI)](https://raw.githubusercontent.com/trafficmotc/UploadInformation/master/KPI/KPI計算流程之完整率.png)
+ ![完整率適用於車輛偵測器(VD)、閉路電視攝影監控(CCTV)、資訊可變標誌(CMS)、自動車輛辨識(AVI)](https://raw.githubusercontent.com/trafficmotc/UploadInformation/master/KPI/KPI計算流程之完整率.png)
 
 
 ## 【總設備即時完整率】
