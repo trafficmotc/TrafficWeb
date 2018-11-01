@@ -1,12 +1,12 @@
 # 設備即時率
 
 
-![ ](https://raw.githubusercontent.com/trafficmotc/UploadInformation/master/KPI/KPI計算流程之即時率.png)
+![適用於車輛偵測器(VD)、閉路電視攝影監控(CCTV)、資訊可變標誌(CMS)、自動車輛辨識(AVI)](https://raw.githubusercontent.com/trafficmotc/UploadInformation/master/KPI/KPI計算流程之即時率.png)
 
 
 ## 【最新檔案即時率】
 
-
+※適用於車輛偵測器(VD)、閉路電視攝影監控(CCTV)、資訊可變標誌(CMS)、自動車輛辨識(AVI)
       
 **最新檔案即時率公式：**    
 
@@ -20,6 +20,8 @@ $$\mathbf{最新檔案即時率} =\frac{𝑺𝒚𝒔𝒕𝒆𝒎𝑻𝒊𝒎𝒆
 
 ## 【總設備即時率】
 
+※適用於車輛偵測器(VD)、閉路電視攝影監控(CCTV)、資訊可變標誌(CMS)、自動車輛辨識(AVI)
+
 **總設備即時率公式：**     
 
 $$\mathbf{總設備即時率} =\frac{最新XML檔案中符合即時的設備數}{建構數} $$
@@ -30,6 +32,8 @@ $$\mathbf{總設備即時率} =\frac{最新XML檔案中符合即時的設備數}
 
 
 ## 【單支設備即時率】
+
+※適用於車輛偵測器(VD)、閉路電視攝影監控(CCTV)、資訊可變標誌(CMS)、自動車輛辨識(AVI)
 
 **單支設備(小時累計/每日累計/當日累計)即時率公式：**
 
@@ -42,6 +46,7 @@ $$\mathbf{總設備即時率} =\frac{最新XML檔案中符合即時的設備數}
 
 ## 【總設備平均即時率】
 
+※適用於車輛偵測器(VD)、閉路電視攝影監控(CCTV)、資訊可變標誌(CMS)、自動車輛辨識(AVI)
 
 **總設備(小時累計/每日累計/當日累計)平均即時率公式：**
 
