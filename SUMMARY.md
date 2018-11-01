@@ -7,10 +7,10 @@
   * [常見問題](Member/MemberFAQ.md)
 * API使用 
   * [Swagger說明](API/Swagger.md)
-  * [URI命名原則](API/URI.md)
   * [API更新頻率](API/UpdateFrequency.md)
   * [常見問題](API/FAQ.md)
 * API特色
+  * [URI命名原則](API/URI.md)
   * [支援OData查詢語法](API/OData.md)
   * [線上教學](API/Demo.md)
 * KPI指標說明
