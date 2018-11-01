@@ -21,4 +21,4 @@
 |路段發布	|路段即時路況動態資料|	1分鐘|	LiveTraffic.xml|
 |路段發布	|機關路況壅塞水準定義基本資料|	每天|	CongestionLevel.xml|
 |路段發布	|機關發布路段線型圖資資料|	每天|	SectionShape.xml|
-|最新消息	|最新消息資|料	不定期|	News.xml|
+|最新消息	|最新消息資料	|不定期|	News.xml|
