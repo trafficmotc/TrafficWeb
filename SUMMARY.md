@@ -3,6 +3,7 @@
 * [入門指南](README.md)
 * 會員申請
   * [會員分級](Member/MemberType.md)
+    * [會員分級](Member/MemberType.md)
   * [註冊申請](Member/GoRegister.md)
   * [常見問題](Member/MemberFAQ.md)
 * API使用 
