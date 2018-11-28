@@ -4,5 +4,6 @@
 
 ###【Swagger使用說明】
 
+※以公共運輸旅運API為例。
 
 {% youtube src="https://www.youtube.com/embed/hDTEJAxW0Rs" %}{% endyoutube %}
