@@ -12,7 +12,7 @@
 $$\mathbf{總設備即時維護率} =\frac{最新XML檔案中維護中的設備數}{建構數} $$
 
 
-※備註：維護中設備：𝑺𝒕𝒂𝒕𝒖𝒔非0
+※備註：維護中設備：𝑺𝒕𝒂𝒕𝒖𝒔非0。
 
 ![ ](https://raw.githubusercontent.com/trafficmotc/UploadInformation/master/KPI/總設備即時維護率.png)  
 
