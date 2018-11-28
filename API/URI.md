@@ -35,10 +35,10 @@
    + 取得指定[縣市]發布路段與基礎路段組合對應資料/Road/Traffic/SectionLink/City/{City}
    + 取得指定[縣市]發布路段線型圖資資料/Road/Traffic/SectionShape/City/{City}
    
-   + 取得[公路總局]發布路段基本資料/Road/Traffic/Section/Highway
-   + 取得[公路總局]路況壅塞水準定義資料/Road/Traffic/CongestionLevel/Highway
-   + 取得[公路總局]發布路段與基礎路段組合對應資料/Road/Traffic/SectionLink/Highway
-   + 取得[公路總局]發布路段線型圖資資料/Road/Traffic/SectionShape/Highway
+   + 取得[公路總局]發布路段基本資料/Road/Traffic/Section/Freeway
+   + 取得[公路總局]路況壅塞水準定義資料/Road/Traffic/CongestionLevel/Freeway
+   + 取得[公路總局]發布路段與基礎路段組合對應資料/Road/Traffic/SectionLink/Freeway
+   + 取得[公路總局]發布路段線型圖資資料/Road/Traffic/SectionShape/Freeway
    
    + 取得[高速公路局]發布路段基本資料/Road/Traffic/Section/Freeway
    + 取得[高速公路局]路況壅塞水準定義資料/Road/Traffic/CongestionLevel/Freeway
@@ -53,13 +53,13 @@
    + 取得指定[縣市]電子標籤基本資料/Road/Traffic/ETag/City/{City}
    + 取得指定[縣市]電子標籤配對基本資料/Road/Traffic/ETagPair/City/{City}
 
-   + 取得[公路總局]車輛偵測器基本資料/Road/Traffic/VD/Highway
-   + 取得[公路總局]閉路電視攝影監控基本資料/Road/Traffic/CCTV/Highway
-   + 取得[公路總局]資訊可變標誌基本資料/Road/Traffic/CMS/Highway
-   + 取得[公路總局]自動車輛辨識基本資料/Road/Traffic/AVI/Highway
-   + 取得[公路總局]自動車輛辨識配對基本資料/Road/Traffic/AVIPair/Highway
-   + 取得[公路總局]電子標籤基本資料/Road/Traffic/ETag/Highway
-   + 取得[公路總局]電子標籤配對基本資料/Road/Traffic/ETagPair/Highway
+   + 取得[公路總局]車輛偵測器基本資料/Road/Traffic/VD/Freeway
+   + 取得[公路總局]閉路電視攝影監控基本資料/Road/Traffic/CCTV/Freeway
+   + 取得[公路總局]資訊可變標誌基本資料/Road/Traffic/CMS/Freeway
+   + 取得[公路總局]自動車輛辨識基本資料/Road/Traffic/AVI/Freeway
+   + 取得[公路總局]自動車輛辨識配對基本資料/Road/Traffic/AVIPair/Freeway
+   + 取得[公路總局]電子標籤基本資料/Road/Traffic/ETag/Freeway
+   + 取得[公路總局]電子標籤配對基本資料/Road/Traffic/ETagPair/Freeway
 
    + 取得[高速公路局]車輛偵測器基本資料/Road/Traffic/VD/Freeway
    + 取得[高速公路局]閉路電視攝影監控基本資料/Road/Traffic/CCTV/Freeway
@@ -80,13 +80,13 @@
    + 取得指定[縣市]透過車載GPS探偵產生之路段即時資料/Road/Traffic/Live/GVP/City/{City}
    + 取得指定[縣市]透過手機網路信令探偵產生之路段即時資料/Road/Traffic/Live/CVP/City/{City}
    
-   + 取得[公路總局]路段即時資料/Road/Traffic/Live/Highway
-   + 取得[公路總局]車輛偵測器即時資料/Road/Traffic/Live/VD/Highway
-   + 取得[公路總局]資訊可變標誌即時資料/Road/Traffic/Live/CMS/Highway
-   + 取得[公路總局]自動車輛辨識即時資料/Road/Traffic/Live/AVI/Highway
-   + 取得[公路總局]電子標籤即時資料/Road/Traffic/Live/ETag/Highway
-   + 取得[公路總局]透過車載GPS探偵產生之路段即時資料/Road/Traffic/Live/GVP/Highway
-   + 取得[公路總局]透過手機網路信令探偵產生之路段即時資料/Road/Traffic/Live/CVP/Highway
+   + 取得[公路總局]路段即時資料/Road/Traffic/Live/Freeway
+   + 取得[公路總局]車輛偵測器即時資料/Road/Traffic/Live/VD/Freeway
+   + 取得[公路總局]資訊可變標誌即時資料/Road/Traffic/Live/CMS/Freeway
+   + 取得[公路總局]自動車輛辨識即時資料/Road/Traffic/Live/AVI/Freeway
+   + 取得[公路總局]電子標籤即時資料/Road/Traffic/Live/ETag/Freeway
+   + 取得[公路總局]透過車載GPS探偵產生之路段即時資料/Road/Traffic/Live/GVP/Freeway
+   + 取得[公路總局]透過手機網路信令探偵產生之路段即時資料/Road/Traffic/Live/CVP/Freeway
    
    + 取得[高速公路局]路段即時資料/Road/Traffic/Live/Freeway
    + 取得[高速公路局]車輛偵測器即時資料/Road/Traffic/Live/VD/Freeway
