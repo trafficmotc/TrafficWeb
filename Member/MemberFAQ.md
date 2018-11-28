@@ -54,7 +54,7 @@
 **問題16：次數不夠怎麼辦？**
 - 建議可檢查呼叫策略。 
 說明：建議可以採用一次性呼叫，取得所有設備手法
-另外使用程式(如:C#、Java、JavaScript等)取得資料時，請記得加入HTTP Header設定(Accept-Encoding: gzip, deflate)，可有效減傳輸量，詳細可參閱【<a href="https://github.com/trafficmotc/XMLValidation">範例程式碼</a>】。
+另外使用程式(如:C#、Java、JavaScript等)取得資料時，請記得加入HTTP Header設定(Accept-Encoding: gzip, deflate)，可有效減傳輸量。
 
       
 若有任何疑問，歡迎透過以下方式聯絡我們：traffic@motc.gov.tw，（02） 8969-1969#2319 資拓宏宇 林先生。  
