@@ -74,5 +74,5 @@
 
   另外使用程式\(如:C\#、Java、JavaScript等\)取得資料時，請記得加入HTTP Header設定\(Accept-Encoding: gzip, deflate\)，可有效減傳輸量。
 
-若有任何疑問，歡迎透過以下方式聯絡我們：traffic@motc.gov.tw，（02） 8969-1969\#2319 資拓宏宇 林先生。
+若有任何疑問，歡迎透過以下方式聯絡我們：traffic@motc.gov.tw，電話: \(02\)23492803 。
 
