@@ -48,7 +48,7 @@
 
 **問題11：為甚麼突然接不到「即時路況資訊流通平台」資料呢？**
 
-* 本平臺從108年度6月起正式導入API機制，您可參考【[範例程式碼](https://github.com/ptxmotc/Sample-code)】。
+* 本平臺從108年度6月起正式導入API機制，您可參考【[範例程式碼](https://github.com/trafficmotc/Sample-code)】。
 
 **問題12：一定要加入會員才能獲取資料嗎？**
 
