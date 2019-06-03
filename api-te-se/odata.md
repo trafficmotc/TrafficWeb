@@ -3,7 +3,7 @@
 ## 【OData語法】
 
 | OData語法 | 說明 | 範例 |
-| :--- | :--- | :--- |
+| :------------------- | :--- | :--- |
 | format | 資料格式json、xml、csv | 回傳xml格式 $format=xml |
 | select | 回傳資料的某些欄位 | 回傳欄位1 $select= Field1 |
 | top | 取最前筆數 | 取前10筆  $top=10 |
