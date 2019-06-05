@@ -20,4 +20,5 @@
   * [設備維護率統計說明](kpi-zhi-biao-shuo-ming/maintain.md)
   * [設備即時率統計說明](kpi-zhi-biao-shuo-ming/update.md)
   * [設備妥善率統計說明](kpi-zhi-biao-shuo-ming/proper.md)
+* [相關代碼對照表](xiang-dai-zhao-biao.md)
 
