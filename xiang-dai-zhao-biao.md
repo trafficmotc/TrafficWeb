@@ -104,7 +104,9 @@ VD設備車種代碼取決於各式車種英文字詞的第一個字母，例如
       <td style="text-align:left">5</td>
     </tr>
   </tbody>
-</table>備註:車種代碼資料主要參考來源[http://www.freeway.gov.tw/Upload/DownloadFiles/eTag EPC ID編碼原則.csv](http://www.freeway.gov.tw/Upload/DownloadFiles/eTag%20EPC%20ID編碼原則.csv) ，EPC ID代碼共24碼，其中第6碼為車種代碼。
+</table>
+
+備註:車種代碼資料主要參考來源[http://www.freeway.gov.tw/Upload/DownloadFiles/eTag EPC ID編碼原則.csv](http://www.freeway.gov.tw/Upload/DownloadFiles/eTag%20EPC%20ID編碼原則.csv) ，EPC ID代碼共24碼，其中第6碼為車種代碼。
 
 
 
@@ -182,7 +184,9 @@ VD設備車種代碼取決於各式車種英文字詞的第一個字母，例如
       </td>
     </tr>
   </tbody>
-</table> **\(七\) 基礎路段代碼表** 
+</table>
+
+**\(七\) 基礎路段代碼表** 
 
 詳參閱路段編碼案，LinkID的制定規則及與路名碼的關係，可透過以下連結查詢: \([http://link.motc.gov.tw/DownloadFile](http://link.motc.gov.tw/DownloadFile)\) 交通資訊基礎路段代碼查詢系統:資料下載
 
