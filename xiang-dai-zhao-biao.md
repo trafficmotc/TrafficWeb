@@ -1,6 +1,6 @@
 # 相關代碼對照表
 
-**\(一\) 業管機關代碼對照表\(AuthorityID/Code\)** 
+**\(一\) 業管機關代碼對照表\(AuthorityID/Code\)**
 
 依據行政院主計處鄉鎮代碼表並參酌相關交通主管機構縮寫，彙整於下表。
 
@@ -16,7 +16,6 @@
 | 新竹縣 | 10004 | HSQ | 澎湖縣 | 10016 | PEN | 中部科學園區 | ctsp | CTSP |
 | 苗栗縣 | 10005 | MIA | 基隆市 | 10017 | KEE | 南部科學園區 | stsp | STSP |
 
-
 **\(二\) 業管子機關簡碼\(SubAuthorityCode\)**
 
 | 子機關 | 簡碼 \(Code\) | 子機關 | 簡碼 \(Code\) |
@@ -27,7 +26,6 @@
 | 高速公路局坪林交控中心 | NFB-PL | 公路總局蘇花公路改善工程處交控中心 | THB-SH |
 | 公路總局第一區養護工程處交控中心 | THB-1R | 公路總局西部濱海公路南區工程處 | THB-WS |
 | 公路總局第二區養護工程處交控中心 | THB-2R |  |  |
-
 
 **\(三\) 城市簡碼表\(CityCode\)**
 
@@ -42,8 +40,7 @@
 | 宜蘭縣 | ILA | 台東縣 | TTT |  |  |
 | 新竹縣 | HSQ | 花蓮縣 | HUA |  |  |
 
-
-**\(四\) 車種代碼** 
+**\(四\) 車種代碼**
 
 VD設備車種代碼取決於各式車種英文字詞的第一個字母，例如連結車為 Trailer 取「T」，eTag設備有兩種: \(1\)EPC ID、依循高公局所訂定之車種代碼\(2\)高速公路遠通公司訂定之車種代碼，三者間對應詳如下所示。
 
@@ -104,34 +101,11 @@ VD設備車種代碼取決於各式車種英文字詞的第一個字母，例如
       <td style="text-align:left">5</td>
     </tr>
   </tbody>
-</table>
-
-備註:車種代碼資料主要參考來源[http://www.freeway.gov.tw/Upload/DownloadFiles/eTag EPC ID編碼原則.csv](http://www.freeway.gov.tw/Upload/DownloadFiles/eTag%20EPC%20ID編碼原則.csv) ，EPC ID代碼共24碼，其中第6碼為車種代碼。
-
-
+</table>備註:車種代碼資料主要參考來源[http://www.freeway.gov.tw/Upload/DownloadFiles/eTag EPC ID編碼原則.csv](http://www.freeway.gov.tw/Upload/DownloadFiles/eTag%20EPC%20ID編碼原則.csv) ，EPC ID代碼共24碼，其中第6碼為車種代碼。
 
 **\(五\) 路名碼基本資料**
 
-* 每個道路有其專屬對應名稱與號碼。
-* 依道路分類各自編訂路名碼，市區道路又依所屬縣市各自道路名稱筆畫數排序編碼。
-
-![](https://blobscdn.gitbook.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-LOqtAH2mmiMEhSj-mUb%2F-LOqtTKitMOMZpKAoEfQ%2F-LOqtW3dAKKJBQaYNEcS%2F005-1.jpg?generation=1539593085596053&alt=media)![](https://blobscdn.gitbook.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-LOqtAH2mmiMEhSj-mUb%2F-LOqtTKitMOMZpKAoEfQ%2F-LOqtW3fOGM_VTqOj_9J%2F005-2.jpg?generation=1539593089731315&alt=media)
-
-\*無名道路：暫由本案編訂，後續有官方正式公告路名將配合調整
-
-* 路名碼範例
-
-![](https://blobscdn.gitbook.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-LOqtAH2mmiMEhSj-mUb%2F-LOqtTKitMOMZpKAoEfQ%2F-LOqtW3h-l_VgqOybrgY%2F006-1.jpg?generation=1539593086768930&alt=media)![](https://blobscdn.gitbook.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-LOqtAH2mmiMEhSj-mUb%2F-LOqtTKitMOMZpKAoEfQ%2F-LOqtW3jvh2F_GoL5IZT%2F006-2.jpg?generation=1539593090195549&alt=media)![](https://blobscdn.gitbook.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-LOqtAH2mmiMEhSj-mUb%2F-LOqtTKitMOMZpKAoEfQ%2F-LOqtW3lZmab-gsuaxmR%2F006-3.jpg?generation=1539593090844101&alt=media)![](https://blobscdn.gitbook.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-LOqtAH2mmiMEhSj-mUb%2F-LOqtTKitMOMZpKAoEfQ%2F-LOqtW3nhZRm-bUX-XWy%2F006-4.jpg?generation=1539593086689548&alt=media)![](https://blobscdn.gitbook.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-LOqtAH2mmiMEhSj-mUb%2F-LOqtTKitMOMZpKAoEfQ%2F-LOqtW3pzgmMtD_4EBpg%2F006-5.jpg?generation=1539593087203352&alt=media)
-
-* 路名碼範例：圓環
-
-  市區道路之圓環通常銜接多條道路，為考量實務上圓環為一完整之道路及路名常用性，使其可於路名碼編列時以其銜接之重要道路名稱由本案暫自行命名編列。
-
-![](https://blobscdn.gitbook.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-LOqtAH2mmiMEhSj-mUb%2F-LOqtTKitMOMZpKAoEfQ%2F-LOqtW3rCEMXQy51azKv%2F007-1.jpg?generation=1539593086800958&alt=media)![](https://blobscdn.gitbook.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-LOqtAH2mmiMEhSj-mUb%2F-LOqtTKitMOMZpKAoEfQ%2F-LOqtW3tJENmwtbzaNm9%2F007-2.jpg?generation=1539593090848881&alt=media)
-
-​
-
-
+詳參閱路段編碼案，基礎路段代碼\(LinkID\)、道路代碼\(RoadID\)及路名碼\(RoadNameID\)的編碼規則及關係，詳參閱Link說明文件\([https://motclink.gitbook.io/link/lu-duan-bian-ma-nei-rong/2code](https://www.google.com/url?q=https://motclink.gitbook.io/link/lu-duan-bian-ma-nei-rong/2code&sa=D&source=hangouts&ust=1559887845950000&usg=AFQjCNHaE1jVvxvaJdyNgYPq3dBSdzFPSg)\)，並可至Link官網查詢\([https://link.motc.gov.tw/](https://www.google.com/url?q=https://link.motc.gov.tw/&sa=D&source=hangouts&ust=1559887845950000&usg=AFQjCNF6IL_6qddzQpDGb03rSHyuVffeIg)\)與下載\([https://link.motc.gov.tw/DownloadFile](https://www.google.com/url?q=https://link.motc.gov.tw/DownloadFile&sa=D&source=hangouts&ust=1559887845950000&usg=AFQjCNHzycMKBRPT6JZHadfxeTtLQixHmg)\)資料。
 
 **\(六\) 道路方向\(RoadDirection\)資料表**
 
@@ -184,9 +158,7 @@ VD設備車種代碼取決於各式車種英文字詞的第一個字母，例如
       </td>
     </tr>
   </tbody>
-</table>
+</table>**\(七\) 基礎路段代碼表**
 
-**\(七\) 基礎路段代碼表** 
-
-詳參閱路段編碼案，LinkID的制定規則及與路名碼的關係，可透過以下連結查詢: \([http://link.motc.gov.tw/DownloadFile](http://link.motc.gov.tw/DownloadFile)\) 交通資訊基礎路段代碼查詢系統:資料下載
+詳參閱路段編碼案，基礎路段代碼\(LinkID\)、道路代碼\(RoadID\)及路名碼\(RoadNameID\)的編碼規則及關係，詳參閱Link說明文件\([https://motclink.gitbook.io/link/lu-duan-bian-ma-nei-rong/2code](https://www.google.com/url?q=https://motclink.gitbook.io/link/lu-duan-bian-ma-nei-rong/2code&sa=D&source=hangouts&ust=1559887845950000&usg=AFQjCNHaE1jVvxvaJdyNgYPq3dBSdzFPSg)\)，並可至Link官網查詢\([https://link.motc.gov.tw/](https://www.google.com/url?q=https://link.motc.gov.tw/&sa=D&source=hangouts&ust=1559887845950000&usg=AFQjCNF6IL_6qddzQpDGb03rSHyuVffeIg)\)與下載\([https://link.motc.gov.tw/DownloadFile](https://www.google.com/url?q=https://link.motc.gov.tw/DownloadFile&sa=D&source=hangouts&ust=1559887845950000&usg=AFQjCNHzycMKBRPT6JZHadfxeTtLQixHmg)\)資料。
 
