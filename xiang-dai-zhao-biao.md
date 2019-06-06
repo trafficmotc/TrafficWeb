@@ -107,7 +107,26 @@ VD設備車種代碼取決於各式車種英文字詞的第一個字母，例如
 
 **\(五\) 路名碼基本資料**
 
-詳參閱路段編碼案，RoadID、RoadName等各縣市及機關單位所對應的道路資料可透過以下連結查詢: \([http://link.motc.gov.tw/DownloadFile](http://link.motc.gov.tw/DownloadFile)\) 交通資訊基礎路段代碼查詢系統:資料下載
+* 每個道路有其專屬對應名稱與號碼。
+* 依道路分類各自編訂路名碼，市區道路又依所屬縣市各自道路名稱筆畫數排序編碼。
+
+![](https://blobscdn.gitbook.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-LOqtAH2mmiMEhSj-mUb%2F-LOqtTKitMOMZpKAoEfQ%2F-LOqtW3dAKKJBQaYNEcS%2F005-1.jpg?generation=1539593085596053&alt=media)![](https://blobscdn.gitbook.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-LOqtAH2mmiMEhSj-mUb%2F-LOqtTKitMOMZpKAoEfQ%2F-LOqtW3fOGM_VTqOj_9J%2F005-2.jpg?generation=1539593089731315&alt=media)
+
+\*無名道路：暫由本案編訂，後續有官方正式公告路名將配合調整
+
+* 路名碼範例
+
+![](https://blobscdn.gitbook.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-LOqtAH2mmiMEhSj-mUb%2F-LOqtTKitMOMZpKAoEfQ%2F-LOqtW3h-l_VgqOybrgY%2F006-1.jpg?generation=1539593086768930&alt=media)![](https://blobscdn.gitbook.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-LOqtAH2mmiMEhSj-mUb%2F-LOqtTKitMOMZpKAoEfQ%2F-LOqtW3jvh2F_GoL5IZT%2F006-2.jpg?generation=1539593090195549&alt=media)![](https://blobscdn.gitbook.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-LOqtAH2mmiMEhSj-mUb%2F-LOqtTKitMOMZpKAoEfQ%2F-LOqtW3lZmab-gsuaxmR%2F006-3.jpg?generation=1539593090844101&alt=media)![](https://blobscdn.gitbook.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-LOqtAH2mmiMEhSj-mUb%2F-LOqtTKitMOMZpKAoEfQ%2F-LOqtW3nhZRm-bUX-XWy%2F006-4.jpg?generation=1539593086689548&alt=media)![](https://blobscdn.gitbook.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-LOqtAH2mmiMEhSj-mUb%2F-LOqtTKitMOMZpKAoEfQ%2F-LOqtW3pzgmMtD_4EBpg%2F006-5.jpg?generation=1539593087203352&alt=media)
+
+* 路名碼範例：圓環
+
+  市區道路之圓環通常銜接多條道路，為考量實務上圓環為一完整之道路及路名常用性，使其可於路名碼編列時以其銜接之重要道路名稱由本案暫自行命名編列。
+
+![](https://blobscdn.gitbook.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-LOqtAH2mmiMEhSj-mUb%2F-LOqtTKitMOMZpKAoEfQ%2F-LOqtW3rCEMXQy51azKv%2F007-1.jpg?generation=1539593086800958&alt=media)![](https://blobscdn.gitbook.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-LOqtAH2mmiMEhSj-mUb%2F-LOqtTKitMOMZpKAoEfQ%2F-LOqtW3tJENmwtbzaNm9%2F007-2.jpg?generation=1539593090848881&alt=media)
+
+​
+
+
 
 **\(六\) 道路方向\(RoadDirection\)資料表**
 
