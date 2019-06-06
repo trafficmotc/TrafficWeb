@@ -107,7 +107,7 @@ VD設備車種代碼取決於各式車種英文字詞的第一個字母，例如
 
 詳參閱路段編碼案，RoadID、RoadName等各縣市及機關單位所對應的道路資料可透過以下連結查詢: \([http://link.motc.gov.tw/DownloadFile](http://link.motc.gov.tw/DownloadFile)\) 交通資訊基礎路段代碼查詢系統:資料下載
 
-\(六\) 道路方向\(RoadDirection\)對照表
+\(六\) 道路方向\(RoadDirection\)資料表
 
 <table>
   <thead>
