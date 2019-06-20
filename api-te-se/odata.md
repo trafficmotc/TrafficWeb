@@ -17,5 +17,5 @@
 | orderby {Field asc} | 針對某欄位作升冪 | 針對欄位1作升冪 $orderby= Field1 asc |
 | orderby{Field desc} | 針對某欄位作降冪 | 針對欄位1作降冪 $orderby= Field1 desc |
 
-**更多OData服務開發教學**[**請點我**](http://ptx.transportdata.tw/ptx/Download/公共運輸整合資訊平台資料服務開發實作.pdf)
+**更多OData服務開發教學**[**請點我**](https://docs.google.com/viewer?url=https://github.com/trafficmotc/Traffic_Web/blob/master/Swagger服務說明上傳參考檔案/資料服務開發實作參考手冊.pdf?raw=true)
 
