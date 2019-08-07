@@ -20,7 +20,7 @@ $$\mathbf{最新檔案即時率} =\frac{𝑺𝒚𝒔𝒕𝒆𝒎𝑻𝒊𝒎𝒆
 
 $$\mathbf{總設備即時率} =\frac{最新XML檔案中符合即時的設備數}{建構數}$$
 
-![ ](https://raw.githubusercontent.com/trafficmotc/UploadInformation/master/KPI/總設備即時率.png)
+![](../.gitbook/assets/image%20%281%29.png)
 
 ## 【單支設備即時率】
 
@@ -40,5 +40,5 @@ $$\mathbf{單支設備(小時累計/每日累計/當日累計)即時率} =\frac{
 
 $$\mathbf{總設備(小時累計/每日累計/當日累計)平均即時率}$$ $$=統計區間總設備符合即時率之平均$$ $$=\frac{\sum各檔案符合即時的設備數}{建構數 \times 統計區間 應收次數}$$ $$=\frac{\sum各檔案符合即時的設備數}{統計區間應收總次數}$$
 
-![ ](https://raw.githubusercontent.com/trafficmotc/UploadInformation/master/KPI/總設備平均即時率.png)
+![](../.gitbook/assets/image%20%282%29.png)
 
