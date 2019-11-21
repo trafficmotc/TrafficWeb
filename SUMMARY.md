@@ -14,7 +14,6 @@
   * [URI命名原則](api-te-se/uri.md)
   * [支援OData查詢語法](api-te-se/odata.md)
   * [線上教學](api-te-se/demo.md)
-* [Untitled](untitled.md)
 * [KPI指標說明](kpi-zhi-biao-shuo-ming/README.md)
   * [KPI計算流程及說明](kpi-zhi-biao-shuo-ming/sop.md)
   * [檔案介接率統計說明](kpi-zhi-biao-shuo-ming/file.md)
