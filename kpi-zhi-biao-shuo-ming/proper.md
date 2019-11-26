@@ -18,6 +18,8 @@ $$\mathbf{總設備即時妥善率} =\frac{最新XML檔案中檢核正常的設�
 
 ![](https://raw.githubusercontent.com/trafficmotc/UploadInformation/master/KPI/妥善率異常內容檢核.png)
 
+![](../.gitbook/assets/tu-pian-1.png)
+
 ## 【單支設備累計妥善率】
 
 ※妥善率僅適用於VD設備。
